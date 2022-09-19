@@ -1,0 +1,41 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #6287c7;
+
+}
+
+
+    .btn {
+    cursor: pointer;
+    background: black;
+    color: white;
+}
+.link {
+    padding: 15px 20px;
+    background: #96bdff;
+    margin: 0;
+    border-radius: 20px;
+
+}
+
+.plan {
+    padding: 15px 20px;
+    background: #96bdff;
+    margin: 0;
+    border-radius: 20px;
+}
+
+
+.container {
+    max-width: 900px;
+    margin: auto;
+
+}
+
+.foto {
+    padding: 15px 20px;
+    background: #96bdff;
+    margin: 0;
+    border-radius: 20px;
+    position:
+}
